@@ -1,0 +1,19 @@
+// Campuses
+export const RECEIVE_CAMPUSES = 'RECEIVE_CAMPUSES';
+export const RECEIVE_CAMPUS = 'RECEIVE_CAMPUS';
+export const ADD_CAMPUS = 'ADD_CAMPUS';
+export const DELETE_CAMPUS = 'DELETE_CAMPUS';
+export const EDIT_CAMPUS = 'EDIT_CAMPUS';
+export const CAMPUS_NAME = 'CAMPUS_NAME';
+export const CAMPUS_IMAGE = 'CAMPUS_IMAGE';
+
+//Students
+export const RECEIVE_STUDENTS = 'RECEIVE_STUDENTS';
+export const RECEIVE_STUDENT = 'RECEIVE_STUDENT';
+export const ADD_STUDENT = 'ADD_STUDENT';
+export const DELETE_STUDENT = 'DELETE_STUDENT';
+export const EDIT_STUDENT = 'EDIT_STUDENT';
+export const STUDENT_FIRST_NAME = 'STUDENT_FIRST_NAME';
+export const STUDENT_LAST_NAME = 'STUDENT_LAST_NAME';
+export const STUDENT_EMAIL = 'STUDENT_EMAIL';
+export const STUDENT_CAMPUS = 'STUDENT_CAMPUS';
